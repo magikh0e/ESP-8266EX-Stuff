@@ -1,4 +1,4 @@
-// WeMos D1 Mini Pro-16 Wireless AP Scanner 
+// ESP8266 - Wireless AP Scanner 
 // By: magikh0e
 
 #include "ESP8266WiFi.h"
